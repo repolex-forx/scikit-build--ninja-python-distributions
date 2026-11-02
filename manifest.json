@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-build",
+  "repo": "ninja-python-distributions",
+  "versions": [
+    {
+      "commit": "0288ae7cb3669d458a7d0742da8f251b8a01de4a",
+      "parsed_at": "2026-11-02T21:11:32.186068+00:00",
+      "filetree": "filetree/0288ae7cb3669d458a7d0742da8f251b8a01de4a.nq.gz",
+      "blobs": [
+        "blob/ed4a131595fa73ec81718fb4fae8cfeac5a07bd1.nq.gz",
+        "blob/893ad72ab20add201886d2a46adc6493e7c72e6a.nq.gz",
+        "blob/727a55b3e1e5ad8fe1dd9e54af655f020773d414.nq.gz",
+        "blob/8fb235d7045be0330d94bcb3abd2ac43badaa197.nq.gz",
+        "blob/37ec93a14fdcd0d6e525d97c0cfa6b314eaa98d8.nq.gz",
+        "blob/b1b06c180f71d5a97709335823145b230576f2c5.nq.gz",
+        "blob/08cfb571d39190941ecc945d0b2c3a478c0e1ab7.nq.gz",
+        "blob/6381083e623970771911cc69733f4b8fa67d7ed3.nq.gz",
+        "blob/00a7b00c94e08b86c765d47689b6523148c46eec.nq.gz",
+        "blob/252a4b8337015af7d975e3813f2d90071caa58bf.nq.gz",
+        "blob/23fae44fa89f4cf6f9b45e979b98f2b2ece4e49e.nq.gz",
+        "blob/ede1d527ea2e94acb2322373b71880ec31c83a3d.nq.gz",
+        "blob/5043f4e044227eb36c7c361eaff12596d0ae6988.nq.gz",
+        "blob/a497968f1d98fe52ef0ec85e76baa5fa43a36a15.nq.gz",
+        "blob/e267a20d1aa0ff4a751710302f4d883c173470f3.nq.gz",
+        "blob/d4b1d477092bf4c37fcfd4e243ecce99ebb7f4b6.nq.gz",
+        "blob/d7f47867e64dd2f6de295bd82a4cee1d2054372d.nq.gz",
+        "blob/f4c8ae521c62620e63853b384bd627fd1cb4c04b.nq.gz",
+        "blob/87772abf7bee12bc06c887a199e791989b8ccdbc.nq.gz",
+        "blob/7485d6a806699cad0c76041660b2225ca8b2923c.nq.gz",
+        "blob/7a24d58224e8ba9761037f780b69214cd9e1a7fc.nq.gz",
+        "blob/0b28ac4d47f9aa57f4fca777efe89fb75a1b6f0d.nq.gz",
+        "blob/fa0442ce28dcc2e9c3710319176d5329440d9950.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/e8f35eb1ba2eb5aa249ce09dbbce72bc6e14efef.nq.gz",
+        "blob/9fb0be6e42bacd6009eb3a871b00e980d0908524.nq.gz",
+        "blob/fa8f3e326bbe6dfe9026512a6094b81de4313694.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
