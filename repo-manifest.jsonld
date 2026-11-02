@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-build/ninja-python-distributions/commit/0288ae7cb3669d458a7d0742da8f251b8a01de4a",
       "git:hexsha": "0288ae7cb3669d458a7d0742da8f251b8a01de4a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T21:13:55.522693+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-build/ninja-python-distributions/commit/7b1af3e34e2dc66adbd5d0689b515e727a7f6481",
