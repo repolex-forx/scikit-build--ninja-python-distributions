@@ -103,7 +103,9 @@
           "raw_name": "importlib_metadata",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/importlib_metadata/__init__.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8f6505ad465c2f7b5c85c2644eaa412ed98f5909/chunk-001.nq.gz",
+      "dep": "dep/8f6505ad465c2f7b5c85c2644eaa412ed98f5909.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
