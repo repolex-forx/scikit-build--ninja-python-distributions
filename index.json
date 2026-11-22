@@ -3,6 +3,11 @@
   "repo": "ninja-python-distributions",
   "versions": [
     {
+      "commit": "8f6505ad465c2f7b5c85c2644eaa412ed98f5909",
+      "tag": "1.13.0",
+      "parsed_at": "2026-11-22T00:47:29.344001+00:00"
+    },
+    {
       "commit": "0288ae7cb3669d458a7d0742da8f251b8a01de4a",
       "tag": "",
       "parsed_at": "2026-11-02T21:13:55.523162+00:00"
