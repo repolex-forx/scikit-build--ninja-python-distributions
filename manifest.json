@@ -87,6 +87,22 @@
       ],
       "ast": [
         "aggregate/ast/8f6505ad465c2f7b5c85c2644eaa412ed98f5909/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8f6505ad465c2f7b5c85c2644eaa412ed98f5909.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "importlib-metadata",
+          "ecosystem": "PYPI",
+          "version": "10.2.0",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubCommit": "7e35ac1e6f23e92c66279837b17ce3847434c846",
+          "githubTag": "v10.2.0",
+          "githubUrl": "https://github.com/python/importlib_metadata",
+          "source": "lsp",
+          "raw_name": "importlib_metadata",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/importlib_metadata/__init__.py"
+        }
       ]
     }
   ],
